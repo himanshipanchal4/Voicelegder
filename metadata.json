@@ -1,0 +1,6 @@
+{
+  "name": "VoiceLedger",
+  "description": "Multilingual voice-based bookkeeping application designed for small Indian shopkeepers and local businesses.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
